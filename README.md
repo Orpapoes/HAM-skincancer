@@ -108,6 +108,7 @@ You can use the provided YAML file to create a compatible environment.
   - **Cores:** 4
   - **Logical processors:** 4
   - **Virtualization:** Enabled
+-Ram: 16 gb
 
 - The project was originally developed as a high school project. Due to limited computational resources, the code is optimized for CPU usage.
 
